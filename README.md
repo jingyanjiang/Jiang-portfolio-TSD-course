@@ -1,4 +1,4 @@
-# Jiang-portfolio-TSD-course
+# Jingyan Jiang-portfolio-TSD-course
 This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
