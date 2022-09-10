@@ -12,5 +12,5 @@ I hope to learn how to use github and how to create and maintain a personal port
 ## HW1
 
 ## HW2
-
+[dataviz2](/dataviz2.md)
 ## Final project
