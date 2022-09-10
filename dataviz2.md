@@ -3,3 +3,6 @@
 
 # Part 2
 <div class="flourish-embed flourish-chart" data-src="visualisation/11147781"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Part 3
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11148021"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
