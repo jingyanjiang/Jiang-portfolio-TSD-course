@@ -18,7 +18,7 @@ I noticed that the stock price of Amazon increases faster in covid period than b
 ![Sketch2](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Skech2.jpg)
 ![Sketch3](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Sketch3.jpg)
 
-## Data  
+## 3. Data  
 Source 1: https://www.statista.com/topics/871/online-shopping/#editorialPicks   
 Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN   
 (1)	Stock price of Amazon 2017-2022: I plan to use this dataset to show the rapid increase in stock price of Amazon.
@@ -42,7 +42,7 @@ Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN
 (7)	Leading incentives driving purchases among internet users shopping online: I plan to use this data to introduce the purchasing behavior of online shopping consumers.  
 ![Picture7](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture7.jpg)  
 
-## Method and Medium
+## 4. Method and Medium
 The method I plan to employ for this project is to use charts to show that there is positive relations between what would otherwise be separate and unrelated datasets. I would start by sketching out the storyline: There is a sharp increase of Amazon stock price during the pandemic.  Between the online shopping growth in general during the same period, and top consumer reasons for shopping online, suggestion can be made that the increase in Amazon’s stock price is beyond all other reasons highly related to the occurrence of the pandemic. 
 
 With this storyline in mind, I would be able to trim off some less related datasets when necessary and add more dataset wherever needed. And I would be able to fit the datasets that remain into the storyline so that they make a solid and strong case in an orderly fashion, and in order to do that I would choose carefully the appropriate chart type for each dataset that it makes a clear and expressive impression. 
