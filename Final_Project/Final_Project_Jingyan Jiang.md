@@ -27,7 +27,7 @@ Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN
 (2)	Global retail e-commerce sales 2014-2026: I plan to use this data set to show the increase of the e-commerce sales worldwide.  
 ![Picture2](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture2.jpg) 
 
-(3)	E-commerce as share of total retail sales 2015-2021: I plan to use this dataset to show the increase of the share of e-commerce among total retail sales. 
+(3)	E-commerce as share of total retail sales 2015-2021: I plan to use this dataset to show the increase of the share of e-commerce among total retail sales.   
 ![Picture3](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture3.jpg)  
 
 (4)	Leading online marketplaces 2022: I plan to use this data to show the principal companies in e-commerce filed. 
@@ -36,10 +36,10 @@ Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN
 (5)	Amazon quarterly net revenue: I plan to use this dataset to present the impact of the changes on individual company.
 ![Picture5](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture5.jpg)  
 
-(6)	Worldwide share of consumers that shop online by region 2020: I plan to use this data to introduce the difference of the share of e-commerce across the regions.
+(6)	Worldwide share of consumers that shop online by region 2020: I plan to use this data to introduce the difference of the share of e-commerce across the regions.  
 ![Picture6](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture6.jpg)  
 
-(7)	Leading incentives driving purchases among internet users shopping online: I plan to use this data to introduce the purchasing behavior of online shopping consumers.
+(7)	Leading incentives driving purchases among internet users shopping online: I plan to use this data to introduce the purchasing behavior of online shopping consumers.  
 ![Picture7](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture7.jpg)  
 
 ## Method and Medium
