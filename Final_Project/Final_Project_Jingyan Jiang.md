@@ -18,10 +18,29 @@ I noticed that the stock price of Amazon increases faster in covid period than b
 ![Sketch2](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Skech2.jpg)
 ![Sketch3](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Sketch3.jpg)
 
-## Data
-Source 1: https://www.statista.com/topics/871/online-shopping/#editorialPicks 
-Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN 
+## Data  
+Source 1: https://www.statista.com/topics/871/online-shopping/#editorialPicks   
+Source 2: https://finance.yahoo.com/quote/AMZN?p=AMZN   
 (1)	Stock price of Amazon 2017-2022: I plan to use this dataset to show the rapid increase in stock price of Amazon.
+![Picture1](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture1.jpg)  
+
+(2)	Global retail e-commerce sales 2014-2026: I plan to use this data set to show the increase of the e-commerce sales worldwide.  
+![Picture2](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture2.jpg) 
+
+(3)	E-commerce as share of total retail sales 2015-2021: I plan to use this dataset to show the increase of the share of e-commerce among total retail sales. 
+![Picture3](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture3.jpg)  
+
+(4)	Leading online marketplaces 2022: I plan to use this data to show the principal companies in e-commerce filed. 
+![Picture4](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture4.jpg)  
+
+(5)	Amazon quarterly net revenue: I plan to use this dataset to present the impact of the changes on individual company.
+![Picture5](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture5.jpg)  
+
+(6)	Worldwide share of consumers that shop online by region 2020: I plan to use this data to introduce the difference of the share of e-commerce across the regions.
+![Picture6](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture6.jpg)  
+
+(7)	Leading incentives driving purchases among internet users shopping online: I plan to use this data to introduce the purchasing behavior of online shopping consumers.
+![Picture7](https://github.com/jingyanjiang/Jiang-portfolio-TSD-course/raw/main/Final_Project/Picture7.jpg)  
 
 ## Method and Medium
 The method I plan to employ for this project is to use charts to show that there is positive relations between what would otherwise be separate and unrelated datasets. I would start by sketching out the storyline: There is a sharp increase of Amazon stock price during the pandemic.  Between the online shopping growth in general during the same period, and top consumer reasons for shopping online, suggestion can be made that the increase in Amazon’s stock price is beyond all other reasons highly related to the occurrence of the pandemic. 
