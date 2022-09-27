@@ -1,4 +1,5 @@
 # Final Project-Part 1
+## The Stock Price increase of Amazon and the Growth of Online Shopping
 #### Jingyan Jiang
 
 ## 1. Outline
@@ -48,3 +49,8 @@ The method I plan to employ for this project is to use charts to show that there
 With this storyline in mind, I would be able to trim off some less related datasets when necessary and add more dataset wherever needed. And I would be able to fit the datasets that remain into the storyline so that they make a solid and strong case in an orderly fashion, and in order to do that I would choose carefully the appropriate chart type for each dataset that it makes a clear and expressive impression. 
 
 In terms of medium, I plan to use Shorthand to make the charts and visualize the story behind them. The reason is that Shorthand is more user friendly than PPT as it is interactive in showing features.
+
+## Critique
+1. As for the reasons of online shopping, try to focus more on the leading reasons, which could be achieved by using colors.
+2. Check if the preference changed on shopping is sticky or not.
+3. Try to find potential competitors of Amazon that are hurt in this period.
