@@ -51,6 +51,7 @@ With this storyline in mind, I would be able to trim off some less related datas
 In terms of medium, I plan to use Shorthand to make the charts and visualize the story behind them. The reason is that Shorthand is more user friendly than PPT as it is interactive in showing features.
 
 ## Critique
-1. As for the reasons of online shopping, try to focus more on the leading reasons, which could be achieved by using colors.
-2. Check if the preference changed on shopping is sticky or not.
-3. Try to find potential competitors of Amazon that are hurt in this period.
+1. Add a title to this page. (Modified)
+2. As for the reasons of online shopping, try to focus more on the leading reasons, which could be achieved by using colors.
+3. Check if the preference changed on shopping is sticky or not.
+4. Try to find potential competitors of Amazon that are hurt in this period.
