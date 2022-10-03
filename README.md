@@ -18,4 +18,4 @@ I hope to learn how to use github and how to create and maintain a personal port
 [Data Visualization for WORKPLACE INJURIES AND ILLNESSES](/HW3-4.md)
 
 ## Final project
-[Final Project-Part 1](/Final_Project/Final_Project_Jingyan_Jiang.md)
+[Final Project-Part 1](/Final_Project/Final_Project_Part 1_Jingyan_Jiang.md)
