@@ -19,3 +19,4 @@ I hope to learn how to use github and how to create and maintain a personal port
 
 ## Final project
 [Final Project-Part 1](/Final_Project/Final_Project_Part1_Jingyan_Jiang.md)
+[Final Project-Part 2](/Final_Project/Final_Project_Part2_Jingyan_Jiang.md)
