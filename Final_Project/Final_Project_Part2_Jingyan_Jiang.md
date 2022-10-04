@@ -4,15 +4,16 @@
 
 #### Jingyan Jiang  
 
-#### The initial sketches can be found here [Final Project-Part 1](/Final_Project/Final_Project_Part1_Jingyan_Jiang.md)   
+### Storyboards
+The initial sketches can be found here [Final Project-Part 1](/Final_Project/Final_Project_Part1_Jingyan_Jiang.md)   
 
-#### The updated storyboards is here using shorthand：  
+The updated storyboards is here using shorthand：  
 <a href="https://carnegiemellon.shorthandstories.com/the-stock-price-increase-of-amazon-and-the-growth-of-online-shopping/index.html"> Updated Storyboards </a>  
 
-#### Preview of the storyboards  
+Preview of the storyboards  
 <script src="https://carnegiemellon.shorthandstories.com/the-stock-price-increase-of-amazon-and-the-growth-of-online-shopping/embed.js"></script>  
 
-#### User Research Protocol
+### User Research Protocol
 #### 1.	Target audience
 - Primary audience: Investors who might be interested in Amazon or the e-commerce industry.  
 - Secondary audience: Loyal customers of Amazon.  
