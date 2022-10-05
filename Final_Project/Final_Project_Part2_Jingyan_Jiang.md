@@ -46,10 +46,9 @@ In order to protect the interviewees’ information, I sum up the feedback toget
 2)	It is an interesting topic.  
 #### Negative:
 1)	The end conclusions are too broad, maybe try to focus on one.  
-2)	The storyboard now is too descriptive, and the ideas to be emphasized are not clear.  
-3)	The leading incentive for online shopping has nothing to do with this story.  
-4)	The call-to-action parts are not convincing.  
-5)	Maybe mention some potential problems behind this growth.  
+2)	The storyboard now is too descriptive, and the ideas to be emphasized are not clear.   
+3)	The call-to-action parts are missing.  
+4)	Maybe mention some potential problems behind this growth.  
   
 #### 5.	Changes I plan on implementing to my visualizations next week  
 1)	Narrow down the ending points for this story.  
