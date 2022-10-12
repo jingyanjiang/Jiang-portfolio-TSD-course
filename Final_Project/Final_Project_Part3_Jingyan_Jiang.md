@@ -1,7 +1,6 @@
 # Final Project WriteUp
 #### Jingyan Jiang
 
-Jingyan Jiang
 
 #### 1. Idea
 At the beginning of this project, I came up with an idea to look into the growth of the online shopping market. As we know, during the pandemic, the e-commerce industry grew rapidly. In this case, I am wondering if there is any investing opportunity in this industry. In order to research this topic, I need to analyze the whole industry and also find the promising individual companies. Since Amazon is the leading company in this industry, I assumed it might be a good candidate decided to select Amazon as the individual company that I wanted to analyze.  
