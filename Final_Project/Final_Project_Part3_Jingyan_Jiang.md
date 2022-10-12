@@ -70,5 +70,5 @@ In this step, I first created all the visulizations needed for this story. After
       ii.	The storyboard now is too descriptive, and the ideas to be emphasized are not clear.  
       iii.	The call-to-action parts are missing.  
 
-9.	Final modification  
+#### 9.	Final modification  
 
