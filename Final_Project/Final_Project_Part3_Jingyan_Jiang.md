@@ -1,7 +1,8 @@
 # Final Project Part 3
 #### Jingyan Jiang
 
-### Project Writeup
+### Project Writeup with Final Data Stroy
+The final webpage can be found here: https://carnegiemellon.shorthandstories.com/the-stock-price-increase-of-amazon-and-the-growth-of-online-shopping/index.html  
 #### 1. Idea
 At the beginning of this project, I came up with an idea to look into the growth of the online shopping market. As we know, during the pandemic, the e-commerce industry grew rapidly. In this case, I am wondering if there is any investing opportunity in this industry. In order to research this topic, I need to analyze the whole industry and also find the promising individual companies. Since Amazon is the leading company in this industry, I assumed it might be a good candidate decided to select Amazon as the individual company that I wanted to analyze.  
 
@@ -70,7 +71,7 @@ In this step, I first created all the visulizations needed for this story. After
       ii.	The storyboard now is too descriptive, and the ideas to be emphasized are not clear.  
       iii.	The call-to-action parts are missing.  
 
-#### 9.	Final modification  
+#### 9.	Final Data Story  
 In this final stage, I review my entire storyline with an attentive focus on the audience: what kind of decision they might be expecting to make with the help of this story, what is it that they are looking for but my story has not yet been included. The critiques and feedback of interviews in the user research have pointed out that the current data is too high level to be making sense in an actual decision-making process, and the data is most descriptive that requires a more direct interpretation of the point being made here.   
 Based on this feedback, I reviewed my story and tried to locate the problems and come up with a solution to each.  
 First, the problem of data being too descriptive without a clear point being made. When I review my story, I found out that I did try to make the case that the reason why the growth would be sustainable is that the pandemic serves more as a way to bring in new customers rather than a strong incentive for people to shop online. So, I assume when the critique says data are most descriptive it is because the wording in my explanation of the significance of the data is not catchy enough and I did not repeat it and reemphasize it enough. So, I modified and highlighted the contrast between two explanations of the growth on several slides:   
