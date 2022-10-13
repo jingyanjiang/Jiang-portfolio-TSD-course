@@ -8,9 +8,7 @@ Jingyan Jiang is from the Master of Information Systems Management program at Ca
 I hope to learn how to use github and how to create and maintain a personal portfolio page. Besides, I am also interested in recovering the stories behind data in a more compelling way with visualization.
 
 # Portfolio
-
-## HW1
-
+  
 ## HW2
 [Data Visualization for Debt-to-GDP Ratio of OECD Countries](/dataviz2.md)
 
