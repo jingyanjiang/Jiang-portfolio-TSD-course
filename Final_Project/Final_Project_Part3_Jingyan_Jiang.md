@@ -78,6 +78,7 @@ First, the problem of data being too descriptive without a clear point being mad
 - (1) makeshift vs better shopping experience  
 - (2) forming habits vs being incentives  
 - (3) bringing in customers vs keeping customers  
+  
 With more catchy wording that stands out and more repetition from a different perspective, I believe the information is better conveyed.   
 Second, the problem of not being able to provide information that is impressive in an actual decision-making process, I decide that it is because a mere demonstration of online-shopping incentives does not make close sense to people’s real life: surveys present themselves as retrospections but do not interact with people like, say, a “Buy Now” button to be clicked on. So I added a graph of the increase in the number of Amazon Prime Members, as Prime-Membership has an actual significance in the audience’s everyday life: free shipment and discounts. The visual aid does not only present information that online shopping is a more serious commitment than just a makeshift: people just love their purchases being delivered to the doorstep that they pay for it to happen more often, but it also presents it via a most typical life scenario that the audience has been encountering and interacting with.   
 With these modifications, I believe I have answered the problems raised but my reviewers and made my story a stronger case.   
